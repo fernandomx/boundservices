@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">boundservices</string>
+    <string name="service_desc">This service downloads stuff</string>
+
+</resources>
