@@ -5,6 +5,10 @@ App simple for demonstration the use Android Bound Services.
 Is an application component that can perform
 long-running operations in the background with no user interface.
 
+![bound_services](https://user-images.githubusercontent.com/7757331/95177880-a5adb880-07b6-11eb-93e0-60b066107cf3.png)
+
+
+
 # Yes, i said NO USER INTERFACE
 
 These application have their own lifecycle independent 
