@@ -25,3 +25,7 @@ The client could be an activity a fragment a smart-watch or other application.
 
 So, when you use consistent or frequent communication between some client
 and the service, in this case can be use Bound Services.
+
+To learn more, click in the link above:
+
+https://developer.android.com/guide/components/bound-services
