@@ -1,5 +1,5 @@
 # Android Bound Services
-App simple for demonstration the use Android Bound Services.
+A sample app for demonstration the use Android Bound Services.
 
 # Service: 
 Is an application component that can perform
